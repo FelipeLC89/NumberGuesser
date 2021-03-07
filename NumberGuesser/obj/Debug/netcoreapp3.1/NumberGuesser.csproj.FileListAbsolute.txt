@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.exe
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.dll.config
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.deps.json
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.json
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.dev.json
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.pdb
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.My_Project.Resources.resources
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfo.cs
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.pdb
+C:\Users\felip\source\repos\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.genruntimeconfig.cache
